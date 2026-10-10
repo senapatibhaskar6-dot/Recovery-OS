@@ -1,0 +1,6 @@
+{
+  "name": "Recovery OS - Debt Recovery Management Platform",
+  "description": "Comprehensive debt recovery agency operating system featuring multi-portfolio management, role-based portals (Admin, Manager, HR, Supervisor, Telecaller, FOS), geo-verified field collection, bank reports, and statutory payroll engine.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
